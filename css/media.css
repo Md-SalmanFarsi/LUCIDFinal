@@ -1,0 +1,379 @@
+
+@media(max-width:1199px){
+    .get{
+        text-align: center;
+    }
+    .get span {
+        font-size: 35px;
+
+    }
+    .get h2 {
+        font-size: 35px;
+    }
+    .button{
+        text-align: center !important;
+        margin-top: 15px;
+    }
+    .contact-form{
+        width: 60%;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .nav-link{
+        display: inline-block;
+    }
+    .nav-item{
+        margin-bottom: 10px;
+    }
+}
+@media(max-width:991px){
+    header h1 {
+        font-size: 30px;
+    }
+    .details {
+        padding-top: 0;
+    }
+    .iphon{
+        padding-top: 100px;
+    }
+    .get h2 {
+        text-align: center;
+    }
+    .button{
+        text-align: center !important;
+        margin-top: 15px;
+    }
+    .contact-form {
+        width: 80%;
+    }
+    .client {
+        width: 45%;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .nav-link{
+        display: inline-block;
+    }
+    .nav-item{
+        margin-bottom: 10px;
+    }
+}
+@media(max-width:767px){
+    .phone{
+        display: none;
+    }
+    .text{
+        text-align: center;
+    }
+    .height span{
+        display: none;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .nav-link{
+        display: inline-block;
+    }
+    .nav-item{
+        margin-bottom: 10px;
+    }
+    header h1 {
+        font-size: 37px;
+    }
+    .feature {
+        padding: 35px 0;
+    }
+    .iphone{
+        width: 70%;
+        margin: auto;
+    }
+    .span-heading {
+        padding-bottom: 60px;
+    }
+    .feature h3 {
+        padding: 15px 0 1px 0;
+    }
+    .details {
+        padding-top: 30px;
+    }
+    .device {
+        padding: 40px 0;
+    }
+    .customize {
+        padding: 0;
+    }
+    .client {
+        width: 90%;
+    }
+    .get h2 {
+        font-size: 35px;
+        text-align: center;
+    }
+    .button {
+        text-align: center!important;
+        margin-top: 15px;
+    }
+    .contact {
+        padding-bottom: 500px;
+    }
+    .contact-form {
+        width: 75%;
+    }
+    .contact-form {
+        top: 40%;
+    }
+
+}
+@media(max-width:575px) and (min-width:414px){
+    .phone{
+        display: none;
+    }
+    header h1 {
+        font-size: 40px;
+    }
+    .text{
+        text-align: center;
+    }
+    .height span{
+        display: none;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .nav-link{
+        display: inline-block;
+    }
+    .nav-item{
+        margin-bottom: 10px;
+    }
+    header p{
+        padding-bottom: 20px;
+    }
+    .feature {
+        padding: 40px 0;
+    }
+    .span-heading {
+        padding-bottom: 50px;
+    }
+    .feaicon {
+        height: 80px;
+        width: 80px;
+        font-size: 25px;
+    }
+    .feature h3 {
+        padding: 8px 0 5px 0;
+    }
+    .details {
+        padding-top: 10px;
+    }
+    .customize {
+        padding: 0;
+    }
+    .device {
+        padding: 15px 0;
+    }
+    .client {
+        width: 45%;
+    }
+    .client-img {
+        width: 60px;
+        height: 60px;
+    }
+    .client-details h4, .client-details h5{
+        font-size: 15px;
+        font-size: 14px;
+    }
+    .get{
+        text-align: center;
+    }
+    .get h2{
+        font-size: 28px;
+        padding-bottom: 10px;
+    }
+    .get span{
+        font-size: 28px;
+    }
+    .button{
+        text-align: center !important;
+    }
+    .price-details {
+        margin-bottom: 15px;
+    }
+    .contact {
+        padding-top: 25px;
+        padding-bottom: 470px;
+    }
+    .contact-form{
+        width: 90%;
+        padding: 8px 22px;
+    }
+    .contact-form {
+        top: 50%;
+    }
+    .iphone{
+        width: 50%;
+        margin: auto;
+    }
+}
+@media(max-width:414px){
+    header h1 {
+        font-size: 37px;
+    }
+    .client {
+        width: 62%;
+    }
+    .client-img {
+        width: 60px;
+        height: 60px;
+    }
+    .contact-form {
+        top: 50%;
+    }
+    .contact-form{
+        width: 90%;
+        padding: 8px 22px;
+    }
+}
+@media(max-width:411px){
+    header h1 {
+        font-size: 35px;
+    }
+    .client {
+        width: 75%;
+    }
+    .client-img {
+        width: 60px;
+        height: 60px;
+    }
+    .contact-form {
+        top: 50%;
+    }
+}
+@media(max-width:375px){
+    header h1 {
+        font-size: 33px;
+    }
+    .client {
+        width: 80%;
+    }
+    .client-img {
+        width: 60px;
+        height: 60px;
+    }
+    .contact-form {
+        top: 50%;
+    }
+}
+@media(max-width:360px){
+    header h1 {
+        font-size: 28px;
+    }
+    header p {
+        padding-bottom: 0px;
+    }
+    .btn-view{
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .client {
+        width: 85%;
+    }
+    .client-img {
+        width: 60px;
+        height: 60px;
+    }
+    .btn-download{
+        margin-top: 15px !important;
+    }
+    .price h1 {
+        font-size: 50px;
+    }
+    .contact-form {
+        top: 50%;
+    }
+    .contact-form{
+        width: 90%;
+        padding: 8px 22px;
+    }
+}
+@media(max-width:332px){
+    header h1 {
+        font-size: 28px;
+    }
+    header p {
+        padding-bottom: 0px;
+    }
+    .btn-view{
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .span-heading h2 {
+        font-size: 28px;
+    }
+    .span-heading {
+        padding-bottom: 30px;
+    }
+    .feaicon {
+        height: 70px;
+        width: 70px;
+        font-size: 20px;
+    }
+    .feature h3 {
+        font-size: 25px;
+    }
+    .details h2 {
+        font-size: 26px;
+    }
+    .super h5 {
+        margin-top: 25px;
+    }
+    .super h2 {
+        font-size: 28px;
+    }
+    .client {
+        width: 95%;
+    }
+    .client-img {
+        width: 60px;
+        height: 60px;
+    }
+    .btn-download{
+        margin-top: 15px !important;
+    }
+    .testimonial h2 {
+        font-size: 25px;
+    }
+    .price h1 {
+        font-size: 50px;
+    }
+    .contact-form {
+        top: 48%;
+    }
+    .contact {
+        padding-bottom: 495px;
+    }
+    .contact-form{
+        width: 90%;
+        padding: 8px 22px;
+    }
+    .get h2{
+        font-size: 28px;
+    }
+    .get span{
+        font-size: 28px;
+    }
+}
+@media(max-width:280px){
+    .client {
+        width: 90%;
+    }
+    .client-img {
+        width: 50px;
+        height: 50px;
+    }
+    header h1 {
+        font-size: 24px;
+    }
+}
